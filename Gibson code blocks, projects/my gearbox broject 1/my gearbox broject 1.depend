@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606728313 source:c:\users\user\desktop\gibson projects\my gearbox broject 1\main.c
+	<stdio.h>
+	<stdlib.h>
+

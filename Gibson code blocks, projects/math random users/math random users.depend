@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1607953638 source:c:\users\user\onedrive\desktop\grayspace\trial_7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1608036658 source:c:\users\user\desktop\gibson projects\math random users\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
